@@ -1,8 +1,10 @@
 first sept = add new repo
 secode sept = add your github repo link
+    => git clone "add link"
 3th sept= chek the status 
     your status is main this is ok but not to main to change the status 
-
+    => git status
+    
 4th sept = add and commite
    => only 1 file to add than use this commend 
       =>git add file name 
